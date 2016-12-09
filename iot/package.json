@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zanon-io/serverless-notifications.git"
+    "url": "https://github.com/keithsjohnson/serverless-notifications.git"
   },
   "keywords": [
     "Serverless Notifications",
     "Serverless Framework",
     "IoT"
   ],
-  "author": "Diego Zanon",
+  "author": "Keith Johnson",
   "license": "MIT",
   "dependencies": {
     "aws-iot-device-sdk": "^1.0.13"
